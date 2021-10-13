@@ -1,0 +1,32 @@
+$ git commit -m "first commit"
+[master (root-commit) d3e20f7] first commit
+ 29 files changed, 461 insertions(+)
+ create mode 100644 .vs/Validator/DesignTimeBuild/.dtbcache.v2
+ create mode 100644 .vs/Validator/v16/.suo
+ create mode 100644 Class1.cs
+ create mode 100644 Validator.sln
+ create mode 100644 Validator/Program.cs
+ create mode 100644 Validator/Validator.csproj
+ create mode 100644 Validator/bin/Debug/netcoreapp3.1/Validator.deps.json
+ create mode 100644 Validator/bin/Debug/netcoreapp3.1/Validator.dll
+ create mode 100644 Validator/bin/Debug/netcoreapp3.1/Validator.exe
+ create mode 100644 Validator/bin/Debug/netcoreapp3.1/Validator.pdb
+ create mode 100644 Validator/bin/Debug/netcoreapp3.1/Validator.runtimeconfig.dev.json
+ create mode 100644 Validator/bin/Debug/netcoreapp3.1/Validator.runtimeconfig.json
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.AssemblyInfo.cs
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.AssemblyInfoInputs.cache
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.GeneratedMSBuildEditorConfig.editorconfig
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.assets.cache
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.csproj.AssemblyReference.cache
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.csproj.CoreCompileInputs.cache
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.csproj.FileListAbsolute.txt
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.dll
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.genruntimeconfig.cache
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/Validator.pdb
+ create mode 100644 Validator/obj/Debug/netcoreapp3.1/apphost.exe
+ create mode 100644 Validator/obj/Validator.csproj.nuget.dgspec.json
+ create mode 100644 Validator/obj/Validator.csproj.nuget.g.props
+ create mode 100644 Validator/obj/Validator.csproj.nuget.g.targets
+ create mode 100644 Validator/obj/project.assets.json
+ create mode 100644 Validator/obj/project.nuget.cache
